@@ -12,6 +12,7 @@ export async function GET() {
     const includePaths = [
       'app',
       'components',
+      'lib',
       'public',
       'package.json',
       'tsconfig.json',
